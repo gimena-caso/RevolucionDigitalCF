@@ -7,7 +7,7 @@
 }
 
 #h4{
-background-color:palegreen;
+background-color:rgb(238, 178, 238);
 }
 
 #p_texto1{
@@ -16,7 +16,7 @@ background-color:palegreen;
 }
 
 #h1{
-    background-color: violet;
+    background-color: rgb(245, 106, 81);
 }
 
 #imagen1{
@@ -35,7 +35,7 @@ background-color:palegreen;
     float: right;
     font-size: 200%;
     text-align: justify;
-    background-color:powderblue;
+    background-color:rgb(96, 255, 189);
     
 }
 
